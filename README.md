@@ -2,3 +2,42 @@
 
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 - [ ] ReWork: Change the Way You Work Forever
+- [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
+- [ ] Rich Dad Poor Dad: What the Rich Teach their Kids About Money that the Poor and Middle Class Do Not!
+- [ ] How to Win Friends and Influence People
+- [ ] Transformational Leadership: How Leaders Change Teams, Companies, and Organizations
+- [ ] Think and Grow Rich
+- [ ] The Power of Your Subconscious Mind
+- [ ] Start With Why: How Great Leaders Inspire Everyone To Take Action
+- [ ] Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future
+- [ ] Abraham Lincoln: A Biography
+- [ ] The Autobiography of Benjamin Franklin 
+- [ ] Influence: The Psychology of Persuasion
+- [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers
+- [ ] The Art of Critical Decision Making
+- [ ] How to Stop Worrying and Start Living
+- [ ] The Alchemist
+- [ ] Nikola Tesla: Imagination and the Man That Invented the 20th Century
+- [ ] Wings of Fire: An Autobiography
+- [ ] Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson
+- [ ] Think Straight: Change Your Thoughts, Change Your Life
+- [ ] Traction: How Any Startup Can Achieve Explosive Customer Growth
+- [ ] The 7 Habits of Highly Effective People
+- [ ] The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+- [ ] The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich
+- [ ] Zero to One: Notes on Start Ups, or How to Build the Future
+- [ ] My Inventions: The Autobiography of Nikola Tesla
+- [ ] Think and Win like Dhoni
+- [ ] Effective Life Management
+- [ ] The Autobiography of a Yogi
+- [ ] Life Is What You Make It A Story Of Love, Hope And How Determination Can Overcome Even Destiny
+- [ ] The Everything Store: Jeff Bezos and the Age of Amazon
+- [ ] The Effective Executive: The Definitive Guide to Getting the Right Things Done
+- [ ] The Ultimate Brian Tracy Library
+- [ ] Steve Jobs: The Exclusive Biography
+- [ ] The Art of Public Speaking
+- [ ] Business Adventures: Twelve Classic Tales from the World of Wall Street
+- [ ] Critical Business Skills for Success
+- [ ] The Diary of a Young Girl
+- [ ] Thinking, Fast and Slow
+- [ ] The Law of Success
