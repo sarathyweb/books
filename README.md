@@ -1,5 +1,9 @@
 # My Reading List
 
+- [ ] The Personal MBA: A World-Class Business Education in a Single Volume
+- [ ] Don't Startup : What No One Tells You about Starting Your Own Business
+- [ ] The Richest Man in Babylon
+- [ ] Don't Lose Out, Work Out
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 - [ ] ReWork: Change the Way You Work Forever
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
