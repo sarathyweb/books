@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] The E-Myth Revisited Why Most Small Businesses Don’t Work and What to Do About It
 - [ ] The Personal MBA: A World-Class Business Education in a Single Volume
 - [ ] Don't Startup : What No One Tells You about Starting Your Own Business
 - [ ] The Richest Man in Babylon
