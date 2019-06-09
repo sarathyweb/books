@@ -1,5 +1,7 @@
 # My Reading List
 
+- [ ] Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones
+- [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
 - [ ] The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company
 - [ ] Lean Analytics: Use Data to Build a Better Startup Faster
 - [ ] Who Will Cry When You Die?: Life Lessons From The Monk Who Sold His Ferrari
