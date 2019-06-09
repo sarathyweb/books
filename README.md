@@ -1,5 +1,7 @@
 # My Reading List
 
+- [ ] The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company
+- [ ] Lean Analytics: Use Data to Build a Better Startup Faster
 - [ ] Who Will Cry When You Die?: Life Lessons From The Monk Who Sold His Ferrari
 - [ ] The Magic of Thinking Big
 - [ ] My Experiments with Truth
@@ -7,7 +9,7 @@
 - [ ] The Personal MBA: A World-Class Business Education in a Single Volume
 - [ ] Don't Startup : What No One Tells You about Starting Your Own Business
 - [ ] The Richest Man in Babylon
-- [ ] Don't Lose Out, Work Out
+- [ ] Shoe Dog: A Memoir by the Creator of Nike
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 - [ ] ReWork: Change the Way You Work Forever
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
