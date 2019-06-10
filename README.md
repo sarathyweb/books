@@ -4,7 +4,7 @@
 - [ ] Think Straight: Change Your Thoughts, Change Your Life
 - [ ] Effective Life Management
 - [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
-- [ ] The Toyota Way
+- [ ] The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership
 - [ ] Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 - [ ] Think and Grow Rich
