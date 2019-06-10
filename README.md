@@ -1,5 +1,8 @@
 # My Reading List
 
+- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anyth
+- [ ] Think Straight: Change Your Thoughts, Change Your Life
+- [ ] Effective Life Management
 - [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
 - [ ] The Toyota Way
 - [ ] Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones
@@ -50,6 +53,3 @@
 - [ ] Thinking, Fast and Slow
 - [ ] Business Adventures: Twelve Classic Tales from the World of Wall Street
 - [ ] Nikola Tesla: Imagination and the Man That Invented the 20th Century
-- [ ] Effective Life Management
-- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anyth
-- [ ] Think Straight: Change Your Thoughts, Change Your Life
