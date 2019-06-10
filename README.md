@@ -1,7 +1,7 @@
 # My Reading List
 
 - [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
-- [ ] Transformational Leadership: How Leaders Change Teams, Companies, and Organizations
+- [ ] The Toyota Way
 - [ ] Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 - [ ] Think and Grow Rich
@@ -51,5 +51,5 @@
 - [ ] Business Adventures: Twelve Classic Tales from the World of Wall Street
 - [ ] Nikola Tesla: Imagination and the Man That Invented the 20th Century
 - [ ] Effective Life Management
-- [ ] Critical Business Skills for Success
+- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anyth
 - [ ] Think Straight: Change Your Thoughts, Change Your Life
