@@ -1,6 +1,6 @@
 # My Reading List
 
-- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anyth
+- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
 - [ ] Think Straight: Change Your Thoughts, Change Your Life
 - [ ] Effective Life Management
 - [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
