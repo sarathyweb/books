@@ -1,7 +1,7 @@
 # My Reading List
 
 - [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
-- [ ] Think Straight: Change Your Thoughts, Change Your Life
+- [X] Think Straight: Change Your Thoughts, Change Your Life
 - [ ] Effective Life Management
 - [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
 - [ ] The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership
