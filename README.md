@@ -45,7 +45,7 @@
 - [ ] Traction: How Any Startup Can Achieve Explosive Customer Growth
 - [ ] The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
 - [ ] Life Is What You Make It A Story Of Love, Hope And How Determination Can Overcome Even Destiny
-- [ ] The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich
+- [ ] Deep Work: Rules for Focused Success in a Distracted World
 - [ ] The Ultimate Brian Tracy Library
 - [ ] The Everything Store: Jeff Bezos and the Age of Amazon
 - [ ] Zero to One: Notes on Start Ups, or How to Build the Future
