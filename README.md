@@ -31,7 +31,7 @@
 - [ ] Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future
 - [ ] Influence: The Psychology of Persuasion
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
-- [ ] The Art of Critical Decision Making
+- [ ] The Innovator's Dilemma
 - [ ] Steve Jobs: The Exclusive Biography
 - [ ] Rich Dad Poor Dad: What the Rich Teach their Kids About Money that the Poor and Middle Class Do Not!
 - [ ] Abraham Lincoln: A Biography
