@@ -1,5 +1,7 @@
 # My Reading List
 
+- [ ] How to Be a Bawse
+- [ ] Blue Ocean Strategy
 - [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
 - [X] Think Straight: Change Your Thoughts, Change Your Life
 - [ ] Effective Life Management
