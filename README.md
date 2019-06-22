@@ -1,6 +1,7 @@
 # My Reading List
 
-- [ ] How to Be a Bawse
+- [ ] How to Be a Bawse: A Guide to Conquering Life
+- [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 - [ ] Blue Ocean Strategy
 - [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
 - [X] Think Straight: Change Your Thoughts, Change Your Life
