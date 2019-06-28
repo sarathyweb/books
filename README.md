@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
 - [ ] How to Be a Bawse: A Guide to Conquering Life
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 - [ ] Blue Ocean Strategy
