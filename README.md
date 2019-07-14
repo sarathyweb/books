@@ -1,5 +1,5 @@
 # My Reading List
-- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
+- [ ] The Intelligent Investor
 - [ ] How to Be a Bawse: A Guide to Conquering Life
 - [X] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 - [ ] Blue Ocean Strategy
@@ -56,3 +56,5 @@
 - [ ] Business Adventures: Twelve Classic Tales from the World of Wall Street
 - [ ] Nikola Tesla: Imagination and the Man That Invented the 20th Century
 - [ ] Take Control of Your Life: How to Silence Fear and Win the Mental Game
+- [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
+
