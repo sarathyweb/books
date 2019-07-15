@@ -1,5 +1,8 @@
 # My Reading List
 
+- [ ] Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell
+- [ ] Attitude Is Everything: Change Your Attitude ... Change Your Life!
+- [ ] Hooked: How to Build Habit-Forming Products
 - [ ] Alibaba: The House That Jack Ma Built
 - [ ] The 5 AM Club
 - [ ] The Intelligent Investor
