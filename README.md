@@ -1,5 +1,8 @@
 # My Reading List
 
+- [ ] The One Minute Manager
+- [ ] Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell
+- [ ] Hooked: How to Build Habit-Forming Products
 - [ ] How to Be a Bawse: A Guide to Conquering Life
 - [X] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 - [ ] Blue Ocean Strategy
