@@ -7,7 +7,7 @@
 - [X] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 - [ ] Blue Ocean Strategy
 - [X] Think Straight: Change Your Thoughts, Change Your Life
-- [ ] Effective Life Management
+- [X] Effective Life Management
 - [ ] Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
 - [ ] The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership
 - [ ] Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones
