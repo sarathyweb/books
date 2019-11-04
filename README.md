@@ -1,5 +1,11 @@
 # My Reading List
 
+- [ ] The 5 AM Club
+- [ ] Subscribed: Why the Subscription Model Will Be Your Company’s Future—and What to Do About It
+- [ ] Men Are from Mars, Women Are from Venus
+- [ ] Do It Today
+- [ ] Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success
+- [ ] Everything Is F*cked: A Book About Hope
 - [ ] The One Minute Manager
 - [ ] Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell
 - [ ] Hooked: How to Build Habit-Forming Products
@@ -60,4 +66,3 @@
 - [ ] Nikola Tesla: Imagination and the Man That Invented the 20th Century
 - [ ] Take Control of Your Life: How to Silence Fear and Win the Mental Game
 - [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
-
