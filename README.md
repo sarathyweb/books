@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] Can't Hurt Me: Master Your Mind and Defy the Odds
 - [ ] The 5 AM Club
 - [ ] Subscribed: Why the Subscription Model Will Be Your Company’s Future—and What to Do About It
 - [ ] Men Are from Mars, Women Are from Venus
