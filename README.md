@@ -1,5 +1,7 @@
 # My Reading List
 
+- [ ] Predictably Irrational: The Hidden Forces that Shape Our Decisions
+- [ ] Dr. Ambedkar and untouchability
 - [ ] Can't Hurt Me: Master Your Mind and Defy the Odds
 - [ ] The 5 AM Club
 - [ ] Subscribed: Why the Subscription Model Will Be Your Company’s Future—and What to Do About It
