@@ -1,5 +1,9 @@
 # My Reading List
 
+- [ ] The Greatest Salesman in the World
+- [ ] The Science of Getting Rich: Discover the Secrets to Wealth
+- [ ] Built to Sell: Creating a Business That Can Thrive Without You
+- [ ] The Rudest Book Ever
 - [ ] Predictably Irrational: The Hidden Forces that Shape Our Decisions
 - [ ] Dr. Ambedkar and untouchability
 - [ ] Can't Hurt Me: Master Your Mind and Defy the Odds
