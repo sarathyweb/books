@@ -12,7 +12,7 @@
 - [ ] Subscribed: Why the Subscription Model Will Be Your Company’s Future—and What to Do About It
 - [ ] Men Are from Mars, Women Are from Venus
 - [ ] Why We Sleep: The New Science of Sleep and Dreams
-- [ ] Do It Today
+- [x] Do It Today
 - [ ] Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success
 - [ ] Everything Is F*cked: A Book About Hope
 - [ ] The One Minute Manager
