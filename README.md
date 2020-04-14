@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] The Forty Rules of Love
 - [x] The Greatest Salesman in the World
 - [x] The Science of Getting Rich: Discover the Secrets to Wealth
 - [ ] Built to Sell: Creating a Business That Can Thrive Without You
