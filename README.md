@@ -1,5 +1,8 @@
 # My Reading List
 
+- [ ] Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth
+- [ ] The Ride of a Lifetime: Lessons in Creative Leadership from 15 Years as CEO of the Walt Disney Company
+- [ ] That Will Never Work: The Birth of Netflix by the first CEO and co-founder Marc Randolph
 - [ ] No Limits: The Art and Science of High Performance
 - [ ] The Forty Rules of Love
 - [x] The Greatest Salesman in the World
