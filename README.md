@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] The Art of Thinking Clearly: Better Thinking, Better Decisions
 - [ ] Slight Edge
 - [ ] Zero to Sold
 - [ ] Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth
