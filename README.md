@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] NSPIRED: How to Create Tech Products Customers Love
 - [ ] The Art of Thinking Clearly: Better Thinking, Better Decisions
 - [ ] Slight Edge
 - [ ] Zero to Sold
