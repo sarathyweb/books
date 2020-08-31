@@ -93,4 +93,4 @@
 - [ ] Take Control of Your Life: How to Silence Fear and Win the Mental Game
 - [ ] The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
 - [ ] So good they can't ignore you: why skills trump passion in the quest for work you love
-- [ ] Delivering Happiness: A Path to Profits, Passion, and Purpose
+- [x] Delivering Happiness: A Path to Profits, Passion, and Purpose
