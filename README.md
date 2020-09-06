@@ -26,7 +26,7 @@
 - [ ] Everything Is F*cked: A Book About Hope
 - [ ] The One Minute Manager
 - [ ] Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell
-- [ ] Antifragile: Things that Gain from Disorder
+- [ ] Who Moved My Cheese?
 - [ ] Hooked: How to Build Habit-Forming Products
 - [ ] How to Be a Bawse: A Guide to Conquering Life
 - [X] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
