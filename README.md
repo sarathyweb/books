@@ -39,7 +39,7 @@
 - [ ] The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership
 - [ ] Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
-- [ ] tfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think
+- [ ] Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think
 - [ ] Think and Grow Rich
 - [ ] The Alchemist
 - [ ] The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company
