@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] Creativity Inc.
 - [ ] INSPIRED: How to Create Tech Products Customers Love
 - [ ] The Art of Thinking Clearly: Better Thinking, Better Decisions
 - [ ] Slight Edge
