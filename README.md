@@ -1,5 +1,6 @@
 # My Reading List
 
+- [ ] The Warren Buffett Way
 - [ ] Obviously Awesome: How to Nail Product
 - [ ] Zero to One: Notes on Start Ups, or How to Build the Future
 - [ ] Why We Sleep: The New Science of Sleep and Dreams
