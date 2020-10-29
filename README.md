@@ -100,5 +100,4 @@
 - [ ] The Art of Public Speaking
 - [ ] The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership
 - [ ] Who Will Cry When You Die?: Life Lessons From The Monk Who Sold His Ferrari
-- [ ] The Diary of a Young Girl
 - [x] The Greatest Salesman in the World
