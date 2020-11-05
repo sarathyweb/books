@@ -20,6 +20,9 @@
 - [ ] The Everything Store: Jeff Bezos and the Age of Amazon
 
 ## Business & Product Development
+- [ ] Start from Zero
+- [ ] Monetising Innovation
+- [ ] The Lean Product Playbook
 - [ ] The Design of Everyday Things
 - [ ] Obviously Awesome: How to Nail Product
 - [ ] Zero to One: Notes on Start Ups, or How to Build the Future
