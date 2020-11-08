@@ -20,6 +20,32 @@
 - [ ] The Everything Store: Jeff Bezos and the Age of Amazon
 
 ## Business & Product Development
+
+- [ ] Crossing the Chasm
+- [ ] Founders at Work
+- [ ] Erik Sink on the Business of Software
+- [ ] Start small, stay small
+- [ ] Growth Hacking: Silicon Valley's best kept secret
+- [ ] Competing against luck
+- [ ] When Coffee and Kale compete
+- [ ] Running Lean
+- [ ] MAKE book
+- [ ] Getting Real
+- [ ] Badass: making users awesome
+- [ ] On Writing Well
+- [ ] Value SaaS basecamp guide
+- [ ] The Science of Selling
+- [ ] Impossible to Inevitable
+- [ ] The Founder's Dilemmas
+- [ ] Scaling Up
+- [ ] Creative Selection
+- [ ] The Four Steps to the Epiphany
+- [ ] Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity
+- [ ] Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
+- [ ] Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers
+- [ ] Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)
+- [ ] Made to Stick: Why Some Ideas Survive and Others Die
+- [ ] Switch: How to Change Things When Change Is Hard
 - [ ] Start from Zero
 - [ ] Monetising Innovation
 - [ ] The Lean Product Playbook
