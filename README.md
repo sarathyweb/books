@@ -21,6 +21,7 @@
 
 ## Business & Product Development
 
+- [ ] Shape Up
 - [ ] Crossing the Chasm
 - [ ] Founders at Work
 - [ ] Erik Sink on the Business of Software
