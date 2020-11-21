@@ -1,6 +1,7 @@
 # My Reading List
 
 ## Biography
+- [ ] Hit Refresh
 - [ ] Abraham Lincoln: A Biography
 - [ ] The Warren Buffett Way
 - [ ] My Experiments with Truth
