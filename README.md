@@ -76,6 +76,7 @@
 - [ ] The Innovator's Dilemma
 
 ## Self help & Management
+- [ ] Tools of Titans
 - [ ] Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
 - [ ] Why We Sleep: The New Science of Sleep and Dreams
 - [ ] Deep Work: Rules for Focused Success in a Distracted World
