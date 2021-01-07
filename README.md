@@ -1,6 +1,7 @@
 # My Reading List
 
 ## Biography
+- [ ] No Rules Rules
 - [ ] Hit Refresh
 - [ ] Abraham Lincoln: A Biography
 - [ ] The Warren Buffett Way
