@@ -77,6 +77,7 @@
 - [ ] The Innovator's Dilemma
 
 ## Self help & Management
+- [ ] Good to Great
 - [ ] Never Split the Difference
 - [ ] Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
 - [ ] Why We Sleep: The New Science of Sleep and Dreams
