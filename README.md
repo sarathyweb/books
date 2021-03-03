@@ -23,6 +23,7 @@
 
 ## Business & Product Development
 
+- [ ] The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback
 - [ ] Shape Up
 - [ ] Crossing the Chasm
 - [ ] Founders at Work
