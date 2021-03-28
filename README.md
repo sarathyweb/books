@@ -141,3 +141,4 @@
 
 # Marketing
 - [ ] The Boron Letters
+- [ ] The 1-Page Marketing Plan
