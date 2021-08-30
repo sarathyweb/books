@@ -145,6 +145,6 @@
 # Marketing
 - [ ] The Boron Letters
 - [ ] The 1-Page Marketing Plan
-- [ ] Doing Content Right
+- [x] Doing Content Right
 - [ ] The Adweek Copywriting Handbook
 - [ ] The Copywriter's Handbook
