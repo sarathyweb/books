@@ -25,6 +25,7 @@
 
 ## Business & Product Development
 
+- [ ] The Embedded Entrepreneur: How to Build an Audience-Driven Business
 - [ ] The Culture Map: Breaking Through the Invisible Boundaries of Global Business
 - [ ] Expert Secrets
 - [ ] The Heart of Business
@@ -83,6 +84,7 @@
 - [ ] The Innovator's Dilemma
 
 ## Self help & Management
+- [ ] The Psychology of Money
 - [ ] Unapologetically Ambitious
 - [ ] Good to Great
 - [ ] Never Split the Difference
