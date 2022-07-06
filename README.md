@@ -145,6 +145,13 @@
 - [ ] Who Will Cry When You Die?: Life Lessons From The Monk Who Sold His Ferrari
 - [x] The Greatest Salesman in the World
 - [ ] What Got You Here Won't Get You There
+- [ ] Think Again: The Power of Knowing What You Don't Know
+- [ ] The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
+- [ ] Do Epic Shit
+- [ ] Designing Your Life
+- [ ] Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less
+- [ ] Principles: Life and Work
+- [ ] Leaders Eat Last: Why Some Teams Pull Together and Others Don't
 
 # Marketing
 - [ ] The Boron Letters
