@@ -84,6 +84,7 @@
 - [ ] The Innovator's Dilemma
 
 ## Self help & Management
+- [x] Discipline Equals Freedom: Field Manual
 - [ ] The Psychology of Money
 - [ ] Unapologetically Ambitious
 - [ ] Good to Great
