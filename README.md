@@ -85,6 +85,7 @@
 
 ## Self help & Management
 - [x] Discipline Equals Freedom: Field Manual
+- [x] Get Epic Shit Done
 - [ ] The Psychology of Money
 - [ ] Unapologetically Ambitious
 - [ ] Good to Great
