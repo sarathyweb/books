@@ -1,9 +1,5 @@
 # My Reading List
 
-## Rommance 
-- [x] It Ends With Us
-- [ ] It Starts With Us
-
 ## Biography
 - [ ] No Filter: The Inside Story of Instagram
 - [ ] I Came Upon a Lighthouse: A Short Memoir of Life with Ratan Tata
