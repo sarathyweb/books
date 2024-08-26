@@ -1,27 +1,27 @@
 # My Reading List
 
 ## Biography
-- [ ] No Filter: The Inside Story of Instagram
-- [ ] I Came Upon a Lighthouse: A Short Memoir of Life with Ratan Tata
-- [ ] No Rules Rules
-- [ ] Hit Refresh
-- [ ] Abraham Lincoln: A Biography
-- [ ] The Warren Buffett Way
-- [ ] My Experiments with Truth
-- [ ] Nikola Tesla: Imagination and the Man That Invented the 20th Century
-- [ ] The Ride of a Lifetime: Lessons in Creative Leadership from 15 Years as CEO of the Walt Disney Company
-- [ ] Dr. Ambedkar and untouchability
-- [ ] The Autobiography of a Yogi
-- [ ] That Will Never Work: The Birth of Netflix by the first CEO and co-founder Marc Randolph
-- [x] Delivering Happiness: A Path to Profits, Passion, and Purpose
-- [ ] Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future
-- [ ] The Autobiography of Benjamin Franklin
-- [ ] Shoe Dog: A Memoir by the Creator of Nike
-- [ ] Steve Jobs: The Exclusive Biography
-- [ ] Wings of Fire: An Autobiography
-- [ ] My Inventions: The Autobiography of Nikola Tesla
-- [ ] The Diary of a Young Girl
-- [ ] The Everything Store: Jeff Bezos and the Age of Amazon
+- [ ] **No Filter: The Inside Story of Instagram** by Sarah Frier
+- [ ] **I Came Upon a Lighthouse: A Short Memoir of Life with Ratan Tata** by Shantanu Naidu
+- [ ] **No Rules Rules: Netflix and the Culture of Reinvention** by Reed Hastings and Erin Meyer
+- [ ] **Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone** by Satya Nadella
+- [ ] **Abraham Lincoln: A Biography** by Benjamin P. Thomas
+- [ ] **The Warren Buffett Way: Investment Strategies of the World's Greatest Investor** by Robert G. Hagstrom
+- [ ] **My Experiments with Truth: An Autobiography** by Mahatma Gandhi
+- [ ] **Nikola Tesla: Imagination and the Man That Invented the 20th Century** by Sean Patrick
+- [ ] **The Ride of a Lifetime: Lessons in Creative Leadership from 15 Years as CEO of the Walt Disney Company** by Robert Iger
+- [ ] **Dr. Ambedkar and Untouchability: Fighting the Indian Caste System** by Christophe Jaffrelot
+- [ ] **The Autobiography of a Yogi** by Paramahansa Yogananda
+- [ ] **That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea** by Marc Randolph
+- [x] **Delivering Happiness: A Path to Profits, Passion, and Purpose** by Tony Hsieh
+- [ ] **Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping Our Future** by Ashlee Vance
+- [ ] **The Autobiography of Benjamin Franklin** by Benjamin Franklin
+- [ ] **Shoe Dog: A Memoir by the Creator of Nike** by Phil Knight
+- [ ] **Steve Jobs: The Exclusive Biography** by Walter Isaacson
+- [ ] **Wings of Fire: An Autobiography** by A.P.J. Abdul Kalam
+- [ ] **My Inventions: The Autobiography of Nikola Tesla** by Nikola Tesla
+- [ ] **The Diary of a Young Girl** by Anne Frank
+- [ ] **The Everything Store: Jeff Bezos and the Age of Amazon** by Brad Stone
 
 ## Business & Product Development
 
