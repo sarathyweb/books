@@ -1,7 +1,7 @@
 # My Reading List
 
 ## Biography
-- [ ] **No Filter: The Inside Story of Instagram** by Sarah Frier
+- [x] **No Filter: The Inside Story of Instagram** by Sarah Frier
 - [ ] **I Came Upon a Lighthouse: A Short Memoir of Life with Ratan Tata** by Shantanu Naidu
 - [ ] **No Rules Rules: Netflix and the Culture of Reinvention** by Reed Hastings and Erin Meyer
 - [ ] **Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone** by Satya Nadella
